@@ -1,6 +1,6 @@
 {
-  "name": "react-native-picker",
-  "version": "4.3.7",
+  "name": "react-native-picker-androidx",
+  "version": "1.0.0",
   "description": "A Native Picker with high performance.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git@github.com:beefe/react-native-picker.git"
   },
-  "author": "zooble",
+  "author": "henry",
   "license": "MIT",
   "homepage": "https://github.com/beefe/react-native-picker"
 }
